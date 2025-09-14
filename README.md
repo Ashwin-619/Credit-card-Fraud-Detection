@@ -7,3 +7,5 @@ Features :
 * V1–V28: Anonymized transaction attributes,
 * Amount: Transaction amount,
 * Class: Target variable — 1 = fraudulent, 0 = legitimate.
+  
+Source :- https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
